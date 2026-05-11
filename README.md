@@ -22,9 +22,9 @@ With DINOFISH, users can:
 
 <table>
   <tr>
-    <td width="33%"><video src="docs/media/animation_velocity.mp4" autoplay loop muted playsinline width="100%"></video></td>
-    <td width="33%"><video src="docs/media/animation_waterlevel.mp4" autoplay loop muted playsinline width="100%"></video></td>
-    <td width="34%"><video src="docs/media/animation_shearstress.mp4" autoplay loop muted playsinline width="100%"></video></td>
+    <td width="33%"><img src="docs/media/animation_velocity.gif" alt="Velocity animation" width="100%"></td>
+    <td width="33%"><img src="docs/media/animation_waterlevel.gif" alt="Water level animation" width="100%"></td>
+    <td width="34%"><img src="docs/media/animation_shearstress.gif" alt="Shear stress animation" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><sub>Velocity</sub></td>
